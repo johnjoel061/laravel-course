@@ -8,6 +8,6 @@ class CarController extends Controller
 {
     public function index()
     {
-        return 'Index method from CarController'
+        return 'Index method from CarController';
     }
 }
